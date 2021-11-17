@@ -1,4 +1,4 @@
-//  1. Impelement a request to recieve users
+//  1. Implement a request to recieve users
 //  2. Implement a response handler from the server
 //  3. Render the list of users
 //  4. Hang a click event on a list
